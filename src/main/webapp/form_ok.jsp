@@ -29,8 +29,8 @@
   Name : <%=uname%><br/>
   Password : <%=password%><br />
   mobile : <%=mobile%><br/>
-  Email : <%=email%><br />
   Gender : <%=Gender%><br />
+  Email : <%=email%><br />
   Address : <%=inputAddress%><br/>
   City : <%=city%><br/>
   myRC : <%=myRC%><br/>
